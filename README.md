@@ -80,7 +80,7 @@ Automation 🎮⏰ enthusiast building tools for Web3 & blockchain workflows usi
 
 ---
 
-### 🤖 AI & Quantum
+### 🕹 AI & Quantum
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -88,4 +88,3 @@ Automation 🎮⏰ enthusiast building tools for Web3 & blockchain workflows usi
 
 ---
 
-> *"Code để tự do, học để bứt phá – từng dòng lệnh là một bước tiến gần hơn tới phiên bản tốt nhất của chính mình."*

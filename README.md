@@ -39,9 +39,9 @@ Automation 🎮⏰ enthusiast building tools for Web3 & blockchain workflows usi
 
 ## 📌 Featured Projects (Pinned Repos)
 
-- 🔧 [`solana-faucet-bot`](https://github.com/Hogmass/solana-faucet-bot): Automation tool for claiming Solana testnet faucets
-- 🧠 [`graph-ql-automation`](https://github.com/Hogmass/graph-ql-automation): Query subgraphs and automate token monitoring
-- 🔁 [`multi-wallet-runner`](https://github.com/Hogmass/multi-wallet-runner): Async Python bot that rotates wallets using proxies
+- 🔧 [`Faucet-Tool`](https://github.com/Hoang-Dyor-I/Faucet_Tool): Automation tool for claiming Solana testnet faucets
+- 🧠 [`Graph-ql-automation`](): Query subgraphs and automate token monitoring
+- 🔁 [`Multi-wallet-runner`](https://github.com/Hoang-Dyor-I/Multi-wallet-runner): Async Python bot that rotates wallets using proxies
 - 🧮 *AI Study Lab (WIP)*: Experiments on model fine-tuning for blockchain analytics
 - ⚛️ *Quantum Notes (WIP)*: Personal exploration of Qiskit and basic quantum routines
 
@@ -57,8 +57,10 @@ Automation 🎮⏰ enthusiast building tools for Web3 & blockchain workflows usi
 
 ## 📊 GitHub Stats
 
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hogmass&theme=github-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hogmass&layout=compact&theme=dark)](https://github.com/Hogmass)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoang-Dyor-I&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoang-Dyor-I&layout=donut&langs_count=5)
 
 ---
 
@@ -68,15 +70,17 @@ Automation 🎮⏰ enthusiast building tools for Web3 & blockchain workflows usi
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🌐 Web3 & Blockchain
 
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Sui](https://img.shields.io/badge/SUI-6FBCF0?style=for-the-badge&logoColor=white)
-![Monad](https://img.shields.io/badge/MONAD-FF4A00?style=for-the-badge&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![BNB](https://img.shields.io/badge/BNB-FFB90B?style=for-the-badge&logo=binance&logoColor=white)
+![XRP](https://img.shields.io/badge/XRP-0051FF?style=for-the-badge&logo=xrp&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ---
 
